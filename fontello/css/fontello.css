@@ -42,7 +42,7 @@
 
   /* Animation center compensation - margins should be symmetric */
   /* remove if not needed */
-  margin-left: .2em;
+
 
   /* you can be more comfortable with increased icons size */
   /* font-size: 120%; */
@@ -55,8 +55,8 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
 
-.icon-user:before { content: '\e800'; font-size: 3rem; } /* '' */
-.icon-lock:before { content: '\e801'; font-size: 3rem; } /* '' */
-.icon-phone-squared:before { content: '\f098'; font-size: 3rem;} /* '' */
-.icon-mail-alt:before { content: '\f0e0'; font-size: 3rem; } /* '' */
-.icon-direction:before { content: '\f124'; font-size: 3rem;} /* '' */
+.icon-user:before { content: '\e800'; font-size: 7vh; } /* '' */
+.icon-lock:before { content: '\e801'; font-size: 7vh; } /* '' */
+.icon-phone-squared:before { content: '\f098'; font-size: 7vh;} /* '' */
+.icon-mail-alt:before { content: '\f0e0'; font-size: 7vh; } /* '' */
+.icon-direction:before { content: '\f124'; font-size: 7vh;} /* '' */
